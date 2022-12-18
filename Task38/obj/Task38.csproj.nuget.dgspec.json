@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Программы\\GeekBrains_Homework\\C# Homework\\Task38\\Task38.csproj": {}
+    "D:\\Программы\\GeekBrains_Homework\\C# Homework\\task38\\Task38.csproj": {}
   },
   "projects": {
-    "D:\\Программы\\GeekBrains_Homework\\C# Homework\\Task38\\Task38.csproj": {
+    "D:\\Программы\\GeekBrains_Homework\\C# Homework\\task38\\Task38.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Программы\\GeekBrains_Homework\\C# Homework\\Task38\\Task38.csproj",
+        "projectUniqueName": "D:\\Программы\\GeekBrains_Homework\\C# Homework\\task38\\Task38.csproj",
         "projectName": "Task38",
-        "projectPath": "D:\\Программы\\GeekBrains_Homework\\C# Homework\\Task38\\Task38.csproj",
+        "projectPath": "D:\\Программы\\GeekBrains_Homework\\C# Homework\\task38\\Task38.csproj",
         "packagesPath": "C:\\Users\\Эврибади\\.nuget\\packages\\",
-        "outputPath": "D:\\Программы\\GeekBrains_Homework\\C# Homework\\Task38\\obj\\",
+        "outputPath": "D:\\Программы\\GeekBrains_Homework\\C# Homework\\task38\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Эврибади\\AppData\\Roaming\\NuGet\\NuGet.Config"
