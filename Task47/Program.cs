@@ -12,6 +12,10 @@ Console.WriteLine("======");
 Console.WriteLine("Массив:");
 for (int i = 0; i < array.Length ; i++) 
 {
-    array[i] = rand.Next(0, 100) + rand.NextDouble();
-    Console.Write("| " + Convert.ToString(Math.Round(array[i], 2)) + " | ");
+    for (int j = 0; j < n; j++)
+    {
+        array[i] = rand.Next(0, 100) + rand.NextDouble();
+        Console.Write("| " + Convert.ToString(Math.Round(array[i], 2)) + " | ");
+    }
+    Console.WriteLine();
 }
