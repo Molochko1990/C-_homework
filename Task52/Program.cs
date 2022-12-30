@@ -4,26 +4,26 @@ Console.WriteLine("=============");
 Console.WriteLine();
 
 int n = 4;
-int [,] array = new int[n];
+int [,] array = new int[n, n];
 Random rand = new Random();
 Console.WriteLine("======");
 Console.WriteLine("Массив:");
-for (int i = 0; i < array.Length ; i++) 
+for (int i = 0; i < array.GetLength(0); i++) 
 {
-    for (int j = 0; j < n; j++)
+    for (int j = 0; j < array.GetLength(1); j++)
     {
-        array[i] = rand.Next(10, 100);
-        Console.Write("| " + Convert.ToString(array[i]) + " | ");
+        array[i,j] = rand.Next(10, 100);
+        Console.Write("| " + Convert.ToString(array[i,j]) + " | ");
     }
     Console.WriteLine();
 }
 Console.WriteLine("===========================");
-for (int t = 0; t < array.Length; t++)
+for (int i = 0; i < array.GetLength(0); i++)
 {
     int result = 0;
-    for (int k = 0; k < n; k++)
+    for (int j = 0; j < array.GetLength(1); j++)
     {
-        result += array[t, k];
+        result += array[j, i];
     }
     Console.WriteLine(result);
 }

@@ -3,7 +3,7 @@ Console.WriteLine("Программа №50");
 Console.WriteLine("=============");
 Console.WriteLine(); 
 
-int [,] array = {{2, 5, 9}, {3, 4, 7}}; 
+int [,] array = {{2, 5, 9}, {3, 4, 7}, {11, 12, 13}}; 
 Console.WriteLine("Введите индекс элемента в массиве");
 int i = Convert.ToInt32(Console.ReadLine());
 int j = Convert.ToInt32(Console.ReadLine());
