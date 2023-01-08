@@ -1,0 +1,15 @@
+D:\Программы\GeekBrains_Homework\C# Homework\Task66\obj\Debug\net6.0\Task66.csproj.AssemblyReference.cache
+D:\Программы\GeekBrains_Homework\C# Homework\Task66\obj\Debug\net6.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы\GeekBrains_Homework\C# Homework\Task66\obj\Debug\net6.0\Task66.AssemblyInfoInputs.cache
+D:\Программы\GeekBrains_Homework\C# Homework\Task66\obj\Debug\net6.0\Task66.AssemblyInfo.cs
+D:\Программы\GeekBrains_Homework\C# Homework\Task66\obj\Debug\net6.0\Task66.csproj.CoreCompileInputs.cache
+D:\Программы\GeekBrains_Homework\C# Homework\Task66\bin\Debug\net6.0\Task66.exe
+D:\Программы\GeekBrains_Homework\C# Homework\Task66\bin\Debug\net6.0\Task66.deps.json
+D:\Программы\GeekBrains_Homework\C# Homework\Task66\bin\Debug\net6.0\Task66.runtimeconfig.json
+D:\Программы\GeekBrains_Homework\C# Homework\Task66\bin\Debug\net6.0\Task66.dll
+D:\Программы\GeekBrains_Homework\C# Homework\Task66\bin\Debug\net6.0\Task66.pdb
+D:\Программы\GeekBrains_Homework\C# Homework\Task66\obj\Debug\net6.0\Task66.dll
+D:\Программы\GeekBrains_Homework\C# Homework\Task66\obj\Debug\net6.0\refint\Task66.dll
+D:\Программы\GeekBrains_Homework\C# Homework\Task66\obj\Debug\net6.0\Task66.pdb
+D:\Программы\GeekBrains_Homework\C# Homework\Task66\obj\Debug\net6.0\Task66.genruntimeconfig.cache
+D:\Программы\GeekBrains_Homework\C# Homework\Task66\obj\Debug\net6.0\ref\Task66.dll

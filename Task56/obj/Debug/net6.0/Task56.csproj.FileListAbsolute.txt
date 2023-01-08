@@ -1,0 +1,15 @@
+D:\Программы\GeekBrains_Homework\C# Homework\Task56\bin\Debug\net6.0\Task56.exe
+D:\Программы\GeekBrains_Homework\C# Homework\Task56\bin\Debug\net6.0\Task56.deps.json
+D:\Программы\GeekBrains_Homework\C# Homework\Task56\bin\Debug\net6.0\Task56.runtimeconfig.json
+D:\Программы\GeekBrains_Homework\C# Homework\Task56\bin\Debug\net6.0\Task56.dll
+D:\Программы\GeekBrains_Homework\C# Homework\Task56\bin\Debug\net6.0\Task56.pdb
+D:\Программы\GeekBrains_Homework\C# Homework\Task56\obj\Debug\net6.0\Task56.csproj.AssemblyReference.cache
+D:\Программы\GeekBrains_Homework\C# Homework\Task56\obj\Debug\net6.0\Task56.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы\GeekBrains_Homework\C# Homework\Task56\obj\Debug\net6.0\Task56.AssemblyInfoInputs.cache
+D:\Программы\GeekBrains_Homework\C# Homework\Task56\obj\Debug\net6.0\Task56.AssemblyInfo.cs
+D:\Программы\GeekBrains_Homework\C# Homework\Task56\obj\Debug\net6.0\Task56.csproj.CoreCompileInputs.cache
+D:\Программы\GeekBrains_Homework\C# Homework\Task56\obj\Debug\net6.0\Task56.dll
+D:\Программы\GeekBrains_Homework\C# Homework\Task56\obj\Debug\net6.0\refint\Task56.dll
+D:\Программы\GeekBrains_Homework\C# Homework\Task56\obj\Debug\net6.0\Task56.pdb
+D:\Программы\GeekBrains_Homework\C# Homework\Task56\obj\Debug\net6.0\Task56.genruntimeconfig.cache
+D:\Программы\GeekBrains_Homework\C# Homework\Task56\obj\Debug\net6.0\ref\Task56.dll
